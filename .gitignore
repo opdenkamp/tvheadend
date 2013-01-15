@@ -12,7 +12,6 @@ data/dvb-scan
 *.pyc
 .*.sw[op]
 
-debian/changelog
 debian/files
 debian/tvheadend
 debian/tvheadend-dbg
